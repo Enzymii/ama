@@ -1,10 +1,15 @@
 # Ask me anything!
 
-## [Ask a question](https://github.com/yorkie/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/yorkie/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/Enzymii/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/Enzymii/ama/issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer.
+I find it interesting to have an AMA. This way anyone can ask something and read the answer.
 
-Anything means anything. Personal questions. Money. Life. Code. Whatever.
+*Anything* means **anything**. Personal questions. Money. Life. Code. Whatever.
+
+P.S.
+Well, I don't think any one will ask me questions here.
+And I'm not sure I can answer any of the questions well, especially in English.
+So ask the question in Chinese, if possible :-)
 
 #### Guidelines
 
@@ -13,10 +18,8 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
 
-*I can also be reached on [Twitter](https://twitter.com/yorkie) and [email](mailto:yorkiefixer@gmail.com), but I prefer this medium.*
-
 #### More
 
-- [Create your own AMA](https://github.com/yorkie/ama/fork)
-- [Read more AMAs](https://github.com/sindresorhus/amas)
-- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [Create your own AMA](https://github.com/Enzymii/ama/fork) (Actually I fork this from another one...
+- [Read more AMAs](https://github.com/sindresorhus/amas) (Some really funny to read XD
+- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) (An interesting thing, isn't it?
